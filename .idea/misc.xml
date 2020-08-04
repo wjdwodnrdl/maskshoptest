@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/maskShop3/delivery/pom.xml" />
+        <option value="$PROJECT_DIR$/maskShop3/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/maskShop3/adminPage/pom.xml" />
+        <option value="$PROJECT_DIR$/maskShop3/inventory/pom.xml" />
+        <option value="$PROJECT_DIR$/maskShop3/mapage/pom.xml" />
+        <option value="$PROJECT_DIR$/maskShop3/order/pom.xml" />
+        <option value="$PROJECT_DIR$/maskShop3/product/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

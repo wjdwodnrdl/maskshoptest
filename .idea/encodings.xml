@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/maskShop3/adminPage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/adminPage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/delivery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/delivery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/inventory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/inventory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/mapage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/mapage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/product/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maskShop3/product/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
